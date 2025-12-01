@@ -9,3 +9,15 @@ Link: https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/Baseli
 # Double DQN
 Link: https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/DoubleDQNBeamRider.ipynb
 # Gameplay videos
+### Baseline Agent (DQN)
+
+| Episode   |  Video  |
+|-----------|---------|
+| Early     | <a href=https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/videos/DQNEarly.mp4 target="_blank">▶ Watch</a> |
+| Endpoint  | <a href=https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/videos/DQNLATE.mp4 target="_blank">▶ Watch</a> |
+
+### Variant Agent (Double DQN)
+| Episode   |  Video  |
+|-----------|---------|
+| Early     | <a href=https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/videos/DDQNEARLY.mp4 target="_blank">▶ Watch</a> |
+| Endpoint  | <a href=https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/videos/DDQNLATE.mp4 target="_blank">▶ Watch</a> |
