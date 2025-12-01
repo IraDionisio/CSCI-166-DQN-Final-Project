@@ -4,3 +4,8 @@ Final Project for CSCI 166
 Pong: https://github.com/everestso/summer25/blob/main/c166f25_02b_dqn_pong.ipynb
 # DQN on ALE/BeamRider-v5
 BeamRider Documentation: https://ale.farama.org/environments/beam_rider/
+# Baseline DQN
+Link: https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/BaselineBeamRider.ipynb
+# Double DQN
+Link: https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/DoubleDQNBeamRider.ipynb
+# Gameplay videos
