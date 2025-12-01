@@ -13,11 +13,11 @@ Link: https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/Double
 
 | Episode   |  Video  |
 |-----------|---------|
-| Early     | <a href=https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/videos/DQNEarly.mp4 target="_blank">▶ Watch</a> |
-| Endpoint  | <a href=https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/videos/DQNLATE.mp4 target="_blank">▶ Watch</a> |
+| Early     | <a href=https://iradionisio.github.io/CSCI-166-DQN-Final-Project/videos/DQNEarly.mp4 target="_blank">▶ Watch</a> |
+| Endpoint  | <a href=https://iradionisio.github.io/CSCI-166-DQN-Final-Project/videos/DQNLATE.mp4 target="_blank">▶ Watch</a> |
 
 ### Variant Agent (Double DQN)
 | Episode   |  Video  |
 |-----------|---------|
-| Early     | <a href=https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/videos/DDQNEARLY.mp4 target="_blank">▶ Watch</a> |
-| Endpoint  | <a href=https://github.com/IraDionisio/CSCI-166-DQN-Final-Project/blob/main/videos/DDQNLATE.mp4 target="_blank">▶ Watch</a> |
+| Early     | <a href=https://iradionisio.github.io/CSCI-166-DQN-Final-Project/videos/DDQNEARLY.mp4 target="_blank">▶ Watch</a> |
+| Endpoint  | <a href=https://iradionisio.github.io/CSCI-166-DQN-Final-Project/videos/DDQNLATE.mp4 target="_blank">▶ Watch</a> |
